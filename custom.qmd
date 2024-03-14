@@ -1,0 +1,10 @@
+---
+title: "Listing Example"
+listing:
+  id: sample-listings
+  contents: 
+    - posts
+    - archived-items.yaml
+  sort: "date desc"
+  type: table
+---
