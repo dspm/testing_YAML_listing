@@ -5,7 +5,7 @@ listing:
   contents: 
     - posts
     - archived-items.yaml
-	- archived-items-2.yaml
+    - archived-items-2.yaml
   sort: "date desc"
   type: table
 ---

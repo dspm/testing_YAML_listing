@@ -1,3 +1,5 @@
+Example listing is in `custom.qmd`.
+
 ```
 Quarto 1.4.551
 [✓] Checking versions of quarto binary dependencies...

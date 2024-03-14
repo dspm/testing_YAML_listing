@@ -2,7 +2,8 @@
   "listingMap": {
     "custom.qmd": [
       "posts",
-      "archived-items.yaml"
+      "archived-items.yaml",
+      "archived-items-2.yaml"
     ],
     "index.qmd": [
       "posts"
